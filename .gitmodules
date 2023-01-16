@@ -1,3 +1,4 @@
-[submodule "feature/scancode"]
+[submodule "SFML"]
 	path = SFML
+	branch = feature/scancode
 	url = https://github.com/dgcor/SFML.git
